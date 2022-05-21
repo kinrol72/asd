@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.asd{
+    text-align: center;
+    background-color: aqua;
+}
+
+.ty{
+    border: ridge red;
+}
+
+footer{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.link-header{
+    font-size: 30px;
+}
