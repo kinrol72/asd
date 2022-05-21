@@ -2,15 +2,6 @@ body {
     font-family: sans-serif;
 }
 
-.asd{
-    text-align: center;
-    background-color: aqua;
-}
-
-.ty{
-    border: ridge red;
-}
-
 footer{
     background-color: yellowgreen;
     text-align: center;
@@ -18,4 +9,23 @@ footer{
 
 .link-header{
     font-size: 30px;
+}
+
+.asd{
+    text-align: center;
+}
+
+.asdf{
+    font-size: 20px;
+}
+
+.r{
+    border: solid green 15px;
+}
+
+.ty{
+    border: solid red 4px;
+}
+.nm{
+    background-color: aquamarine;
 }
